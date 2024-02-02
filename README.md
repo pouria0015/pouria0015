@@ -1,5 +1,8 @@
-### Hi there 👋
-Welcome to my GitHub ,I am pouria, I am interested in programming and network science, I love teaching and studying current topics!
+### 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there%20👋&width=600&height=250)](https://github.com/Akshay090/svg-banners)
+
+
+Welcome to my GitHub ,I'm Pouria Pakdaman, I'm interested in programming and network science, I love teaching and studying current topics!
 
 I am familiar with the following technologies and programming languages:
 
@@ -16,7 +19,7 @@ I am familiar with the following technologies and programming languages:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-Software that I have interacted with:
+Software that I have interacted with :grinning: :
 
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -26,7 +29,7 @@ Software that I have interacted with:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-Experience working with the following operating systems:
+Experience working with the following operating systems :sweat_smile: :
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
